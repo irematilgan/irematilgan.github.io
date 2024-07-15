@@ -16,7 +16,7 @@ Someone who is deeply interested in Data Analytics, Machine Learning, and Genera
 
 **Undergraduate Research Fellow @ Yıldız Technical University (_October 2021 - October 2023_)**
 
-I had the privilege of working as an undergraduate research fellow in a project funded by TUBİTAK (The Scientific and Technological Research Institution of Turkey) as part of the TUBİTAK 1001 program. This project, guided by Assoc. Prof. Dr. Mehmet Amaç Güvensan and Asst. Prof. Dr. İrem Türkmen, focused on analyzing the weights of various factors influencing Istanbul's traffic dynamics and implementing a predictive traffic flow model for durations between 2 and 48 hours across different city zones.
+I had the privilege of working as an undergraduate research fellow in a project funded by TUBITAK (The Scientific and Technological Research Institution of Turkey) as part of the TUBITAK 1001 program. This project, guided by Assoc. Prof. Dr. Mehmet Amaç Güvensan and Asst. Prof. Dr. İrem Türkmen, focused on analyzing the weights of various factors influencing Istanbul's traffic dynamics and implementing a predictive traffic flow model for durations between 2 and 48 hours across different city zones.
 During this project, I accomplished the following tasks:
 - Conducted error and data analysis targeting accident detection with delays ranging from 5 to 15 minutes. 
 - Estimated long-term traffic speeds during holidays in Istanbul.
