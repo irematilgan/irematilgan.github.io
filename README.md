@@ -1,5 +1,5 @@
 # Data Scientist
-Someone who is deeply interested in Data Analytics, Machine Learning, and Generative AI. Always curious about the world, open to learn, detail-oriented, self-motivated, and determined. Has a unique interdisciplinary approach that integrates principles from both Industrial and Computer Engineering.
+Someone who is deeply interested in Data Analytics, Machine Learning, and Cloud Technologies. Always curious about the world, open to learn, detail-oriented, self-motivated, and determined. Has a unique interdisciplinary approach that integrates principles from both Industrial and Computer Engineering.
 
 ### Technical Skills: Python, Django, AWS, Microsoft Azure, Java, C, R, MongoDB, PostgreSQL, PL/SQL, Node.js, HTML, CSS, Android Studio, Microsoft Office Programs
 
